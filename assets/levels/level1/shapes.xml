@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with http://www.physicseditor.de -->
+<bodydef version="1.0">
+    <bodies numBodies="1">
+
+        <body name="mask" dynamic="false" numFixtures="1">
+
+				<fixture
+					density="2"
+					friction="1"
+					restitution="0"
+					filter_categoryBits="1"
+					filter_groupIndex="0"
+					filter_maskBits="65535"
+					isSensor="false"
+					type="POLYGON"
+					>
+
+
+					<polygon numVertexes="3">
+
+						<vertex x="-1916.0000" y="244.0000" />
+
+						<vertex x="-2048.0000" y="400.0000" />
+
+						<vertex x="-2048.0000" y="245.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-1147.0000" y="296.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-1288.0000" y="284.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-1398.0000" y="387.0000" />
+
+						<vertex x="-2048.0000" y="400.0000" />
+
+						<vertex x="-1570.0000" y="206.0000" />
+
+						<vertex x="-1436.0000" y="190.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="6">
+
+						<vertex x="185.0000" y="388.0000" />
+
+						<vertex x="-152.0000" y="212.0000" />
+
+						<vertex x="-80.0000" y="172.0000" />
+
+						<vertex x="-23.0000" y="153.0000" />
+
+						<vertex x="43.0000" y="143.0000" />
+
+						<vertex x="171.0000" y="141.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="6">
+
+						<vertex x="939.0000" y="108.0000" />
+
+						<vertex x="1065.0000" y="128.0000" />
+
+						<vertex x="1107.0000" y="139.0000" />
+
+						<vertex x="1111.0000" y="389.0000" />
+
+						<vertex x="796.0000" y="389.0000" />
+
+						<vertex x="797.0000" y="141.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-415.0000" y="310.0000" />
+
+						<vertex x="-492.0000" y="390.0000" />
+
+						<vertex x="-468.0000" y="314.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-500.0000" y="238.0000" />
+
+						<vertex x="-510.0000" y="262.0000" />
+
+						<vertex x="-512.0000" y="226.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="6">
+
+						<vertex x="-474.0000" y="240.0000" />
+
+						<vertex x="-417.0000" y="260.0000" />
+
+						<vertex x="-431.0000" y="284.0000" />
+
+						<vertex x="-497.0000" y="274.0000" />
+
+						<vertex x="-510.0000" y="262.0000" />
+
+						<vertex x="-500.0000" y="238.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="5">
+
+						<vertex x="443.0000" y="212.0000" />
+
+						<vertex x="642.0000" y="305.0000" />
+
+						<vertex x="709.0000" y="388.0000" />
+
+						<vertex x="230.0000" y="388.0000" />
+
+						<vertex x="302.0000" y="236.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-561.0000" y="186.0000" />
+
+						<vertex x="-728.0000" y="163.0000" />
+
+						<vertex x="-689.0000" y="134.0000" />
+
+						<vertex x="-612.0000" y="132.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="1920.0000" y="92.0000" />
+
+						<vertex x="1683.0000" y="99.0000" />
+
+						<vertex x="1779.0000" y="36.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="5">
+
+						<vertex x="1683.0000" y="99.0000" />
+
+						<vertex x="1271.0000" y="260.0000" />
+
+						<vertex x="1345.0000" y="147.0000" />
+
+						<vertex x="1434.0000" y="99.0000" />
+
+						<vertex x="1564.0000" y="51.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-884.0000" y="220.0000" />
+
+						<vertex x="-961.0000" y="249.0000" />
+
+						<vertex x="-925.0000" y="222.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-561.0000" y="186.0000" />
+
+						<vertex x="-884.0000" y="220.0000" />
+
+						<vertex x="-853.0000" y="198.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-728.0000" y="163.0000" />
+
+						<vertex x="-561.0000" y="186.0000" />
+
+						<vertex x="-816.0000" y="196.0000" />
+
+						<vertex x="-774.0000" y="165.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-1657.0000" y="172.0000" />
+
+						<vertex x="-1570.0000" y="206.0000" />
+
+						<vertex x="-2048.0000" y="400.0000" />
+
+						<vertex x="-1916.0000" y="244.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-980.0000" y="233.0000" />
+
+						<vertex x="-961.0000" y="249.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-1054.0000" y="234.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="696.0000" y="188.0000" />
+
+						<vertex x="642.0000" y="305.0000" />
+
+						<vertex x="443.0000" y="212.0000" />
+
+						<vertex x="696.0000" y="130.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-497.0000" y="274.0000" />
+
+						<vertex x="-431.0000" y="284.0000" />
+
+						<vertex x="-502.0000" y="282.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-417.0000" y="260.0000" />
+
+						<vertex x="-325.0000" y="264.0000" />
+
+						<vertex x="-415.0000" y="310.0000" />
+
+						<vertex x="-431.0000" y="284.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="5">
+
+						<vertex x="-325.0000" y="264.0000" />
+
+						<vertex x="-213.0000" y="237.0000" />
+
+						<vertex x="185.0000" y="388.0000" />
+
+						<vertex x="-492.0000" y="390.0000" />
+
+						<vertex x="-415.0000" y="310.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="185.0000" y="388.0000" />
+
+						<vertex x="-213.0000" y="237.0000" />
+
+						<vertex x="-152.0000" y="212.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2046.0000" y="-184.0000" />
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="2036.0000" y="-174.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="1345.0000" y="147.0000" />
+
+						<vertex x="1271.0000" y="260.0000" />
+
+						<vertex x="1208.0000" y="193.0000" />
+
+						<vertex x="1206.0000" y="184.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="5">
+
+						<vertex x="1683.0000" y="99.0000" />
+
+						<vertex x="1920.0000" y="92.0000" />
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="1183.0000" y="389.0000" />
+
+						<vertex x="1271.0000" y="260.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-561.0000" y="186.0000" />
+
+						<vertex x="-576.0000" y="189.0000" />
+
+						<vertex x="-961.0000" y="249.0000" />
+
+						<vertex x="-884.0000" y="220.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="2028.0000" y="30.0000" />
+
+						<vertex x="2038.0000" y="-48.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="2023.0000" y="36.0000" />
+
+						<vertex x="2028.0000" y="30.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="1920.0000" y="92.0000" />
+
+						<vertex x="2023.0000" y="36.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-2048.0000" y="400.0000" />
+
+						<vertex x="-1398.0000" y="387.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="-2048.0000" y="400.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="796.0000" y="389.0000" />
+
+						<vertex x="230.0000" y="388.0000" />
+
+						<vertex x="709.0000" y="388.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="4">
+
+						<vertex x="-733.0000" y="267.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-961.0000" y="249.0000" />
+
+						<vertex x="-576.0000" y="189.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-741.0000" y="277.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-733.0000" y="267.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-744.0000" y="388.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-741.0000" y="277.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="-492.0000" y="390.0000" />
+
+						<vertex x="-1278.0000" y="388.0000" />
+
+						<vertex x="-744.0000" y="388.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="796.0000" y="389.0000" />
+
+						<vertex x="1111.0000" y="389.0000" />
+
+					</polygon>
+
+					<polygon numVertexes="3">
+
+						<vertex x="2048.0000" y="400.0000" />
+
+						<vertex x="-492.0000" y="390.0000" />
+
+						<vertex x="185.0000" y="388.0000" />
+
+					</polygon>
+
+
+				</fixture>
+
+        </body>
+
+    </bodies>
+    <metadata>
+        <format>1</format>
+        <ptm_ratio>32</ptm_ratio>
+    </metadata>
+</bodydef>
